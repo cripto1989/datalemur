@@ -9,4 +9,4 @@ WHERE
 GROUP BY
     candidate_id 
 HAVING
-    count(*) = 3;
+    COUNT(*) = 3;

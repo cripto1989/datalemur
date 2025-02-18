@@ -1,15 +1,15 @@
 SELECT
     t.tweets as tweet_bucket,
-    count(*) as users_num      
+    COUNT(*) as users_num      
 FROM
     (SELECT
         user_id,
-        count(*) as tweets          
+        COUNT(*) as tweets          
     FROM
         tweets          
-    WHERE
-        tweet_date between '2022-01-01' and '2022-12-31'          
+    WHERE        
+        EXTRACT(YEAR FROM tweet_date) = 2022          
     GROUP BY
-        user_id) as t      
+        user_id) AS t      
 GROUP BY
     t.tweets;
