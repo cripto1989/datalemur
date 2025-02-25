@@ -17,3 +17,5 @@
 -  [Teams Power Users](https://datalemur.com/questions/teams-power-users) -> [SOLUTION](src/07_teams_power_users.sql)
 
 -  [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) -> [SOLUTION](src/08_duplicate_job_listings.sql)
+
+-  [Cities With Completed Trades](https://datalemur.com/questions/completed-trades) -> [SOLUTION](src/09_cities_with_completed_trades.sql)
