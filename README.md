@@ -1,6 +1,6 @@
-# DataLemur
+# SQL  DataLemur
 
-### Exercise
+## Easy
 
 -  [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) -> [SOLUTION](./src/01_histogram_of_tweets.sql)
 
@@ -19,3 +19,9 @@
 -  [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) -> [SOLUTION](src/08_duplicate_job_listings.sql)
 
 -  [Cities With Completed Trades](https://datalemur.com/questions/completed-trades) -> [SOLUTION](src/09_cities_with_completed_trades.sql)
+
+-  [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) -> [SOLUTION](src/src/10_average_review_ratings.sql)
+
+## Medium
+
+## Hard
