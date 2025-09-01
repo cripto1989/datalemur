@@ -24,4 +24,6 @@
 
 ## Medium
 
+-  [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) -> [SOLUTION](./src/medium/01_users_third_transaction.sql)
+
 ## Hard
