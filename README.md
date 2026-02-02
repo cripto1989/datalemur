@@ -22,17 +22,19 @@
 
 - [Average review rating](https://datalemur.com/questions/sql-avg-review-ratings) -> [SOLUTION](src/easy/10_average_review_ratings.sql)
 
-- [Well paid employees](https://datalemur.com/questions/sql-avg-review-ratings) -> [SOLUTION](src/easy/11_well _paid_employees.sql)
+- [Well paid employees](https://datalemur.com/questions/sql-well-paid-employees) -> [SOLUTION](src/easy/11_well _paid_employees.sql)
 
--  [Final account balance](https://datalemur.com/questions/sql-avg-review-ratings) -> [SOLUTION](src/easy/12_final_account_balance.sql)
+- [Final account balance](https://datalemur.com/questions/final-account-balance) -> [SOLUTION](src/easy/12_final_account_balance.sql)
 
-- [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) -> [SOLUTION](src/easy/13_app_click_through_rate.sql)
+- [Average Review Ratings](https://datalemur.com/questions/click-through-rate) -> [SOLUTION](src/easy/13_app_click_through_rate.sql)
 
 
 ## Medium
 
 - [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) -> [SOLUTION](./src/medium/01_users_third_transaction.sql)
 
-- [Second highest salary](https://datalemur.com/questions/sql-third-transaction) -> [SOLUTION](./src/medium/02_second_highest_salary.sql)
+- [Second highest salary](https://datalemur.com/questions/sql-second-highest-salary) -> [SOLUTION](./src/medium/02_second_highest_salary.sql)
+
+- [Second highest salary](https://datalemur.com/questions/time-spent-snaps) -> [SOLUTION](./src/medium/03_src/medium/03_sending_vs_opening_snap.sql)
 
 ## Hard
