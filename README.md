@@ -22,11 +22,17 @@
 
 - [Average review rating](https://datalemur.com/questions/sql-avg-review-ratings) -> [SOLUTION](src/easy/10_average_review_ratings.sql)
 
-- [Well paid employees](https://datalemur.com/questions/sql-well-paid-employees) -> [SOLUTION](src/easy/11_well _paid_employees.sql)
+- [Well paid employees](https://datalemur.com/questions/sql-well-paid-employees) -> [SOLUTION](src/easy/11_well_paid_employees.sql)
 
 - [Final account balance](https://datalemur.com/questions/final-account-balance) -> [SOLUTION](src/easy/12_final_account_balance.sql)
 
-- [Average Review Ratings](https://datalemur.com/questions/click-through-rate) -> [SOLUTION](src/easy/13_app_click_through_rate.sql)
+- [App Click-through Rate (CTR)](https://datalemur.com/questions/click-through-rate) -> [SOLUTION](src/easy/13_app_click_through_rate.sql)
+
+- [Second Day Confirmation](https://datalemur.com/questions/click-through-rate) -> [SOLUTION](src/easy/14_second_day_confirmation.sql)
+
+- [IBM db2 Product Analytics](https://datalemur.com/questions/click-through-rate) -> [SOLUTION](src/easy/15_ibm_db2_product_analytics.sql)
+
+- [Cards Issued Difference](https://datalemur.com/questions/click-through-rate) -> [SOLUTION](src/easy/16_cards_issued_difference.sql)
 
 
 ## Medium
