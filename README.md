@@ -2,7 +2,7 @@
 
 ## Easy
 
-- [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) -> [SOLUTION](./src/easy/01_histogram_of_tweets.sql)
+- [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) -> [SOLUTION](src/easy/01_histogram_of_tweets.sql)
 
 - [Data Science Skills](https://datalemur.com/questions/matching-skills) -> [SOLUTION](src/easy/02_data_science_skill.sql)
 
@@ -37,10 +37,16 @@
 
 ## Medium
 
-- [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) -> [SOLUTION](./src/medium/01_users_third_transaction.sql)
+- [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) -> [SOLUTION](src/medium/01_users_third_transaction.sql)
 
-- [Second highest salary](https://datalemur.com/questions/sql-second-highest-salary) -> [SOLUTION](./src/medium/02_second_highest_salary.sql)
+- [Second highest salary](https://datalemur.com/questions/sql-second-highest-salary) -> [SOLUTION](src/medium/02_second_highest_salary.sql)
 
-- [Second highest salary](https://datalemur.com/questions/time-spent-snaps) -> [SOLUTION](./src/medium/03_src/medium/03_sending_vs_opening_snap.sql)
+- [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps) -> [SOLUTION](src/medium/03_sending_vs_opening_snap.sql)
+
+- [Tweets' Rolling Averages](https://datalemur.com/questions/time-spent-snaps) -> [SOLUTION](src/medium/04_tweets_rolling_averages.sql)
+
+- [Highest-Grossing Items](https://datalemur.com/questions/time-spent-snaps) -> [SOLUTION](src/medium/05_highest_grossing_items.sql)
+
+- [Top Three Salaries](https://datalemur.com/questions/time-spent-snaps) -> [SOLUTION](src/medium/06_top_three_salaries.sql)
 
 ## Hard
